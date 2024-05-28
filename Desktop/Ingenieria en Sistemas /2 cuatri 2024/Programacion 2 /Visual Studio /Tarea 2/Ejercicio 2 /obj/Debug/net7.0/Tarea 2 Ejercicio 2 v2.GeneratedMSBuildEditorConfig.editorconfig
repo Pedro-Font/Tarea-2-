@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tarea_2_Ejercicio_2_v2
+build_property.ProjectDir = /Users/pednunez/Desktop/Ingenieria en Sistemas /2 cuatri 2024/Programacion 2 /Visual Studio /Tarea 2/Ejercicio 2 /

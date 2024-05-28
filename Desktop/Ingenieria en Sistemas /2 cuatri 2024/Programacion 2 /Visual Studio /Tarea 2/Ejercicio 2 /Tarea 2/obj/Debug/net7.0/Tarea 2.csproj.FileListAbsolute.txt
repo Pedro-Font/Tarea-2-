@@ -1,0 +1,15 @@
+/Users/pednunez/Desktop/Ingenieria en Sistemas /2 cuatri 2024/Programacion 2 /Visual Studio /Tarea 2/Tarea 2/obj/Debug/net7.0/Tarea 2.csproj.AssemblyReference.cache
+/Users/pednunez/Desktop/Ingenieria en Sistemas /2 cuatri 2024/Programacion 2 /Visual Studio /Tarea 2/Tarea 2/obj/Debug/net7.0/Tarea 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pednunez/Desktop/Ingenieria en Sistemas /2 cuatri 2024/Programacion 2 /Visual Studio /Tarea 2/Tarea 2/obj/Debug/net7.0/Tarea 2.AssemblyInfoInputs.cache
+/Users/pednunez/Desktop/Ingenieria en Sistemas /2 cuatri 2024/Programacion 2 /Visual Studio /Tarea 2/Tarea 2/obj/Debug/net7.0/Tarea 2.AssemblyInfo.cs
+/Users/pednunez/Desktop/Ingenieria en Sistemas /2 cuatri 2024/Programacion 2 /Visual Studio /Tarea 2/Tarea 2/obj/Debug/net7.0/Tarea 2.csproj.CoreCompileInputs.cache
+/Users/pednunez/Desktop/Ingenieria en Sistemas /2 cuatri 2024/Programacion 2 /Visual Studio /Tarea 2/Tarea 2/bin/Debug/net7.0/Tarea 2
+/Users/pednunez/Desktop/Ingenieria en Sistemas /2 cuatri 2024/Programacion 2 /Visual Studio /Tarea 2/Tarea 2/bin/Debug/net7.0/Tarea 2.deps.json
+/Users/pednunez/Desktop/Ingenieria en Sistemas /2 cuatri 2024/Programacion 2 /Visual Studio /Tarea 2/Tarea 2/bin/Debug/net7.0/Tarea 2.runtimeconfig.json
+/Users/pednunez/Desktop/Ingenieria en Sistemas /2 cuatri 2024/Programacion 2 /Visual Studio /Tarea 2/Tarea 2/bin/Debug/net7.0/Tarea 2.dll
+/Users/pednunez/Desktop/Ingenieria en Sistemas /2 cuatri 2024/Programacion 2 /Visual Studio /Tarea 2/Tarea 2/bin/Debug/net7.0/Tarea 2.pdb
+/Users/pednunez/Desktop/Ingenieria en Sistemas /2 cuatri 2024/Programacion 2 /Visual Studio /Tarea 2/Tarea 2/obj/Debug/net7.0/Tarea 2.dll
+/Users/pednunez/Desktop/Ingenieria en Sistemas /2 cuatri 2024/Programacion 2 /Visual Studio /Tarea 2/Tarea 2/obj/Debug/net7.0/refint/Tarea 2.dll
+/Users/pednunez/Desktop/Ingenieria en Sistemas /2 cuatri 2024/Programacion 2 /Visual Studio /Tarea 2/Tarea 2/obj/Debug/net7.0/Tarea 2.pdb
+/Users/pednunez/Desktop/Ingenieria en Sistemas /2 cuatri 2024/Programacion 2 /Visual Studio /Tarea 2/Tarea 2/obj/Debug/net7.0/Tarea 2.genruntimeconfig.cache
+/Users/pednunez/Desktop/Ingenieria en Sistemas /2 cuatri 2024/Programacion 2 /Visual Studio /Tarea 2/Tarea 2/obj/Debug/net7.0/ref/Tarea 2.dll
